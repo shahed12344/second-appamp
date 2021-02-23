@@ -1,0 +1,256 @@
+@media (max-width:1200px){
+    .slider p {
+        font-size: 16px;
+    }
+    .slider h1 {
+        font-size: 30px;
+    }
+    .section-header h1 {
+        font-size: 30px;
+    }
+    .section-header p {
+        font-size: 19px;
+        line-height: 37px;
+    }
+    .team-text p {
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .card-text {
+        padding: 34px 20px;
+    }
+    .card-text h5 {
+        font-size: 21px;
+    }
+    .card-text p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+}
+
+@media (max-width:1198px){
+    .card-text {
+        padding: 18px 20px;
+    }
+    .card-text h5 {
+        font-size: 18px;
+    }
+    .card-text p {
+        font-size: 12px;
+        line-height: 19px;
+    }
+}
+
+@media (max-width:990px){
+    .slider {
+        padding: 120px 0px;
+    }
+    .section-header p {
+        font-size: 16px;
+        line-height: 29px;
+    }
+    .menu-ul{
+        margin:0;
+    }
+    .list-item {
+        width: 100px;
+    }
+    .dropdown-list {
+        position: absolute;
+        top: -3px;
+        left: 98px;
+        width: 170px;
+    }
+    .dropdown-list li {
+        width: 100%;
+    }
+    .frist-a {
+        padding: 8px 10px;
+    }
+    .slider-input {
+        margin-bottom: 20px;
+    }
+    .card-text {
+        padding: 26px 20px;
+    }
+    .card-text h5 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .card-text p {
+        font-size: 12px;
+        line-height: 21px;
+    }
+    .plan-card {
+        padding: 50px 20px;
+    }
+}
+
+@media (max-width:766px){
+    .section-header h1 {
+        font-size: 22px;
+        margin-bottom: 13px;
+    }
+    .section-header p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+    .slider {
+        padding: 90px 0px;
+    }
+    .card-text {
+        padding: 50px 40px;
+    }
+    .card-text p {
+        font-size: 17px;
+        line-height: 30px;
+    }
+}
+
+@media (max-width:574px){
+    .section-header p {
+        font-size: 15px;
+        line-height: 28px;
+    }
+    .card-text {
+        padding: 60px 40px;
+    }
+}
+
+@media (max-width:514px){
+    .card-text h5 {
+        font-size: 23px;
+        margin-bottom: 10px;
+    }
+    .card-text p {
+        font-size: 15px;
+    }
+}
+
+@media (max-width:506px){
+    .section-header h1 {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .section-header p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .card-text h5 {
+        font-size: 21px;
+        margin-bottom: 10px;
+    }
+    .card-text p {
+        font-size: 14px;
+    }
+    .team-text p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+}
+
+@media (max-width:490px){
+    .card-text {
+        padding: 70px 40px;
+    }
+    .card-text h5 {
+        font-size: 18px;
+    }
+    .card-text p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .section-header p {
+        width: 100%;
+    }
+}
+
+@media (max-width:422px){
+    .slider {
+        padding: 110px 0px;
+    }
+    .slider p {
+        font-size: 14px;
+        margin-bottom:20px;
+    }
+    .slider h1 {
+        font-size: 24px;
+        margin-bottom:30px;
+    }
+    .slider-input {
+        font-size: 13px;
+    }
+    .slider-search-btn {
+        font-size: 13px;
+    }
+    .section-header h1 {
+        font-size: 23px;
+    }
+    .section-header p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+    .about-section img {
+        margin-top: 10px;
+    }
+    .card-text {
+        padding: 30px 30px;
+    }
+    .plan-card ul li {
+        font-size: 11px;
+        margin-top: 10px;
+    }
+    .team-text p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+    footer p {
+        margin-top: 18px;
+        font-size: 13px;
+    }
+}
+
+@media (max-width:362px){
+    .card-text {
+        padding: 30px 20px;
+    }
+    .feedback-s-p {
+        width: 100%;
+    }
+}
+
+@media (max-width:356px){
+    .card-text h5 {
+        font-size: 17px;
+    }
+    .card-text p {
+        font-size: 11px;
+        line-height: 20px;
+    }
+}
+
+@media (max-width:316px){
+    .card-text {
+        padding: 20px 15px;
+    }
+    .card-text h5 {
+        font-size: 15px;
+    }
+    .card-text p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+}
+
+@media (max-width:300px){
+    .card-text p {
+        font-size: 11px;
+        line-height: 17px;
+    }
+    .plan-section {
+        font-size: 15px;
+    }
+    .plan-card {
+        padding: 50px 25px;
+    }
+}
